@@ -1,2 +1,2 @@
-# ece316
+# ECE316
 Structured Digital Design
